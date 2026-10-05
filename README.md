@@ -25,6 +25,12 @@
 | Scholar cat (`npc_scribe`) | [Muru](https://sketchfab.com/muru) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Herbalist (`npc_herb`) | [Coffeek](https://sketchfab.com/coffe0wolf) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Mushroom Merchant Animated (`npc_trade`) | [Crazicide](https://sketchfab.com/Crazicide) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Idle animation Golem (`mob_golem`) | [Di Co](https://sketchfab.com/dimitricoquet) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Low Poly wolf (`mob_wolf`) | [manoeldarochadeoliveira](https://sketchfab.com/manoeldarochadeoliveira) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 02_centaur_archer (Warcraft III Reforged) (`mob_centaur`) | [spikye09](https://sketchfab.com/spikye09) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Toad Warrior (`mob_toad`) | [SmugglersStudio](https://sketchfab.com/SmugglersStudio) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| PSX HARPY (`mob_harpy`) | [Seifert](https://sketchfab.com/Peter_Seifert) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Hydra protofactor (`mob_hydra`) | [.](https://sketchfab.com/Hdhdhejwnwnjdjd) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | `boss2` ~ `boss10` | 각 파일에 제작자 정보가 들어 있습니다 | 대부분 CC BY 4.0 |
 
 모든 모델은 학습용으로 **폴리곤과 텍스처를 줄여** 사용했습니다 (CC BY 의 변경 고지).
