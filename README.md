@@ -20,6 +20,11 @@
 | Elder Moonseer (`boss1`) | [ItsKrish7](https://sketchfab.com/ItsKrish7) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Low Poly Roman Temple (WIP) (`temple`) | [lexferreira89](https://sketchfab.com/lexferreira89) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Medieval Town Base (`village_kit`) | [Kenney](https://kenney.nl/assets/medieval-town-base) | CC0 1.0 |
+| Wise Man Rigged 3D Model (`npc_wise`) | [CG-Moon](https://sketchfab.com/CG-Moon) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| The Noble Craftsman (`npc_craft`) | [olmopotums](https://sketchfab.com/olmopotums) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Scholar cat (`npc_scribe`) | [Muru](https://sketchfab.com/muru) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Herbalist (`npc_herb`) | [Coffeek](https://sketchfab.com/coffe0wolf) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Mushroom Merchant Animated (`npc_trade`) | [Crazicide](https://sketchfab.com/Crazicide) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | `boss2` ~ `boss10` | 각 파일에 제작자 정보가 들어 있습니다 | 대부분 CC BY 4.0 |
 
 모든 모델은 학습용으로 **폴리곤과 텍스처를 줄여** 사용했습니다 (CC BY 의 변경 고지).
