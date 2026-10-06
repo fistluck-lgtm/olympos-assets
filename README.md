@@ -35,7 +35,7 @@
 | Captain Piper Faraday from Steamworld Heist (`mob_auto`) | [Omar_Mohamed](https://sketchfab.com/Omar_Mohamed) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Treant Mini Greyexista (`mob_treant`) | [Amomomomogus](https://sketchfab.com/Amomomomogus) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Paladin / Portugese Knight (`mob_soldier`) | Parameswara Chronicles 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Minotaur Hook Punch (`mob_minotaur`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Minotaur Hook Punch (`mob_bull` — 청동 황소) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Scorpid (3DRT free asset) (`mob_scorpion`) | 3DRT | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Fire and Ice Elemental — 불 쪽만 사용 (`mob_fire`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Elemental ver 2 (`mob_lava`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
@@ -48,6 +48,8 @@
 | Animated Tentacle (`mob_tentacle`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Armored Guard Knight Rig (`mob_guard`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Ogre (Yamtar Games) (`mob_ogre`) | Yamtar Games | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| `mob_minotaur`·`mob_sphinx`·`mob_cerberus`·`mob_kraken` | 각 관문 보스 모델을 몬스터용으로 줄인 것 (boss4·5·7·9) | 원본과 동일 |
+| `mob_golem` (티탄 자리에도 재사용) | 위 Idle animation Golem 과 같은 파일 | 원본과 동일 |
 | `boss2` ~ `boss10` | 각 파일에 제작자 정보가 들어 있습니다 | 대부분 CC BY 4.0 |
 
 정확한 저작자·출처는 **각 .glb 파일 안에 그대로 들어 있고**, 게임의 `메뉴 → 제작 정보`
