@@ -34,7 +34,24 @@
 | Rhinoceros by Vadim Ziambetov (`mob_rhino`) | [Steel Wasp](https://sketchfab.com/spedspeedissped) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Captain Piper Faraday from Steamworld Heist (`mob_auto`) | [Omar_Mohamed](https://sketchfab.com/Omar_Mohamed) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Treant Mini Greyexista (`mob_treant`) | [Amomomomogus](https://sketchfab.com/Amomomomogus) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Paladin / Portugese Knight (`mob_soldier`) | Parameswara Chronicles 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Minotaur Hook Punch (`mob_minotaur`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Scorpid (3DRT free asset) (`mob_scorpion`) | 3DRT | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Fire and Ice Elemental — 불 쪽만 사용 (`mob_fire`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Elemental ver 2 (`mob_lava`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Manticore Animation (`mob_chimera`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Ghost (`mob_ghost`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Lich (`mob_lich`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Lowpoly Bigfoot (`mob_yeti`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Ice Elemental (`mob_ice`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Hero Kadita Revamp (`mob_siren`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Animated Tentacle (`mob_tentacle`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Armored Guard Knight Rig (`mob_guard`) | Sketchfab 제작자 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Ogre (Yamtar Games) (`mob_ogre`) | Yamtar Games | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | `boss2` ~ `boss10` | 각 파일에 제작자 정보가 들어 있습니다 | 대부분 CC BY 4.0 |
+
+정확한 저작자·출처는 **각 .glb 파일 안에 그대로 들어 있고**, 게임의 `메뉴 → 제작 정보`
+화면이 그것을 읽어 표시합니다. 위 표는 요약입니다.
 
 모든 모델은 학습용으로 **폴리곤과 텍스처를 줄여** 사용했습니다 (CC BY 의 변경 고지).
 게임 안 `메뉴 → 제작 정보` 화면에서도 같은 내용을 볼 수 있습니다.
