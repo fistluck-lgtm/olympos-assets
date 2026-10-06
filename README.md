@@ -31,6 +31,9 @@
 | Toad Warrior (`mob_toad`) | [SmugglersStudio](https://sketchfab.com/SmugglersStudio) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | PSX HARPY (`mob_harpy`) | [Seifert](https://sketchfab.com/Peter_Seifert) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Hydra protofactor (`mob_hydra`) | [.](https://sketchfab.com/Hdhdhejwnwnjdjd) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Rhinoceros by Vadim Ziambetov (`mob_rhino`) | [Steel Wasp](https://sketchfab.com/spedspeedissped) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Captain Piper Faraday from Steamworld Heist (`mob_auto`) | [Omar_Mohamed](https://sketchfab.com/Omar_Mohamed) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Treant Mini Greyexista (`mob_treant`) | [Amomomomogus](https://sketchfab.com/Amomomomogus) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | `boss2` ~ `boss10` | 각 파일에 제작자 정보가 들어 있습니다 | 대부분 CC BY 4.0 |
 
 모든 모델은 학습용으로 **폴리곤과 텍스처를 줄여** 사용했습니다 (CC BY 의 변경 고지).
