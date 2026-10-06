@@ -51,6 +51,9 @@
 | `mob_minotaur`·`mob_sphinx`·`mob_cerberus`·`mob_kraken` | 각 관문 보스 모델을 몬스터용으로 줄인 것 (boss4·5·7·9) | 원본과 동일 |
 | `mob_golem` (티탄 자리에도 재사용) | 위 Idle animation Golem 과 같은 파일 | 원본과 동일 |
 | PS1/PSX Hoplite Chan (`player_hoplite`) | [Seifert](https://sketchfab.com/Peter_Seifert) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| miya_moonlight_archer_in_game (`player_archer`) | [letmetankher](https://sketchfab.com/letmetankher) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Terror Engine - Old Wizard (`player_mage`) | [JuanCarlosOsanteHernandez](https://sketchfab.com/juancarlososantehernandez) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| guinevere_daybreak_halo_in_game (`player_priest`) | [letmetankher](https://sketchfab.com/letmetankher) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | `boss2` ~ `boss10` | 각 파일에 제작자 정보가 들어 있습니다 | 대부분 CC BY 4.0 |
 
 정확한 저작자·출처는 **각 .glb 파일 안에 그대로 들어 있고**, 게임의 `메뉴 → 제작 정보`
