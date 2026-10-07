@@ -57,6 +57,9 @@
 | Mace (`wep_mace`) — 사제가 드는 무기 | [Bryce Phillips](https://sketchfab.com/brycecube) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | 33 leaf trees pack (`wld_leaf`) — 나무 잎사귀·덤불 | [falk lochmann](https://sketchfab.com/falk) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Rocks - PSX low poly (`wld_rock`) — 들판의 바위 | [Drops](https://sketchfab.com/rafacandido2016) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Grass low poly 3d scan (`gnd_grass`) — 바닥 결·풀 | [Sam3D](https://sketchfab.com/samuelcrevier12) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Tileable Forestroad (`gnd_dirt`) — 바닥 결·마른 흙 | [Serkan ÇINAR](https://sketchfab.com/mr.cserkan) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Floor Stones Tilleable (`gnd_stone`) — 바닥 결·포장돌 | [C. Anastasiadis](https://sketchfab.com/bagatir) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | `boss2` ~ `boss10` | 각 파일에 제작자 정보가 들어 있습니다 | 대부분 CC BY 4.0 |
 
 정확한 저작자·출처는 **각 .glb 파일 안에 그대로 들어 있고**, 게임의 `메뉴 → 제작 정보`
