@@ -54,6 +54,9 @@
 | miya_moonlight_archer_in_game (`player_archer`) | [letmetankher](https://sketchfab.com/letmetankher) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Terror Engine - Old Wizard (`player_mage`) | [JuanCarlosOsanteHernandez](https://sketchfab.com/juancarlososantehernandez) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | guinevere_daybreak_halo_in_game (`player_priest`) | [letmetankher](https://sketchfab.com/letmetankher) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Mace (`wep_mace`) — 사제가 드는 무기 | [Bryce Phillips](https://sketchfab.com/brycecube) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 33 leaf trees pack (`wld_leaf`) — 나무 잎사귀·덤불 | [falk lochmann](https://sketchfab.com/falk) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Rocks - PSX low poly (`wld_rock`) — 들판의 바위 | [Drops](https://sketchfab.com/rafacandido2016) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | `boss2` ~ `boss10` | 각 파일에 제작자 정보가 들어 있습니다 | 대부분 CC BY 4.0 |
 
 정확한 저작자·출처는 **각 .glb 파일 안에 그대로 들어 있고**, 게임의 `메뉴 → 제작 정보`
