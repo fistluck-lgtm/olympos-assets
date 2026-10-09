@@ -61,6 +61,9 @@
 | Arc-Flux Blessed Staff of the Mekka-King (`wep_staff3`) — 소피스트 상급 지팡이 | [Lengarde](https://sketchfab.com/Lengarde) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Mace (`wep_mace2`) — 사제 중급 철퇴 | [Cyril43](https://sketchfab.com/Cyril43) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Weapon Mace 1 (`wep_mace3`) — 사제 상급 철퇴 | [__FAS__](https://sketchfab.com/__FAS__) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Recurve Bow (`wep_bow1`) — 활잡이 하급 활 | [MrEliptik](https://sketchfab.com/mreliptik) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Ancient Bow (`wep_bow2`) — 활잡이 중급 활 | [sunix](https://sketchfab.com/sunix) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Elven Assassin Weapon Set — Bow (`wep_bow3`) — 활잡이 상급 활 | [nodgerty](https://sketchfab.com/nodgert111) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | 33 leaf trees pack (`wld_leaf`) — 나무 잎사귀·덤불 | [falk lochmann](https://sketchfab.com/falk) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Rocks - PSX low poly (`wld_rock`) — 들판의 바위 | [Drops](https://sketchfab.com/rafacandido2016) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Grass low poly 3d scan (`gnd_grass`) — 바닥 결·풀 | [Sam3D](https://sketchfab.com/samuelcrevier12) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
