@@ -55,6 +55,12 @@
 | Terror Engine - Old Wizard (`player_mage`) | [JuanCarlosOsanteHernandez](https://sketchfab.com/juancarlososantehernandez) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | guinevere_daybreak_halo_in_game (`player_priest`) | [letmetankher](https://sketchfab.com/letmetankher) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Mace (`wep_mace`) — 사제가 드는 무기 | [Bryce Phillips](https://sketchfab.com/brycecube) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Spear Kratos (`wep_spear2`) — 호플리테스 중급 창 | [deadshot361](https://sketchfab.com/deadshot361) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| The Spear of Morrigan (`wep_spear3`) — 호플리테스 상급 창 | [maheylah](https://sketchfab.com/maheylah) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Wizards Staff (`wep_staff2`) — 소피스트 중급 지팡이 | [TKenterprise](https://sketchfab.com/TKenterprise) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Arc-Flux Blessed Staff of the Mekka-King (`wep_staff3`) — 소피스트 상급 지팡이 | [Lengarde](https://sketchfab.com/Lengarde) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Mace (`wep_mace2`) — 사제 중급 철퇴 | [Cyril43](https://sketchfab.com/Cyril43) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Weapon Mace 1 (`wep_mace3`) — 사제 상급 철퇴 | [__FAS__](https://sketchfab.com/__FAS__) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | 33 leaf trees pack (`wld_leaf`) — 나무 잎사귀·덤불 | [falk lochmann](https://sketchfab.com/falk) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Rocks - PSX low poly (`wld_rock`) — 들판의 바위 | [Drops](https://sketchfab.com/rafacandido2016) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Grass low poly 3d scan (`gnd_grass`) — 바닥 결·풀 | [Sam3D](https://sketchfab.com/samuelcrevier12) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
