@@ -61,6 +61,9 @@
 | Tileable Forestroad (`gnd_dirt`) — 바닥 결·마른 흙 | [Serkan ÇINAR](https://sketchfab.com/mr.cserkan) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Floor Stones Tilleable (`gnd_stone`) — 바닥 결·포장돌 | [C. Anastasiadis](https://sketchfab.com/bagatir) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Tree Stump with roots, ground, and fall leaves (`wld_stump`) — 숲 바닥의 낙엽 자국 | [gatruelove](https://sketchfab.com/gatruelove) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 3D Greek Assets House (`bld_house`, `prp_shed`) — 마을 민가·헛간 | [SenpaiKhan](https://sketchfab.com/SenpaiKhan) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Fantasy Deserted Well (`prp_well`) — 마을 우물 | [nickhil.nm](https://sketchfab.com/nickhil.nm) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Ancient Stone Altar Pedestal (`prp_altar`) — 마을 제단 | [BrieucSwales](https://sketchfab.com/BrieucSwales) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | `boss2` ~ `boss10` | 각 파일에 제작자 정보가 들어 있습니다 | 대부분 CC BY 4.0 |
 
 정확한 저작자·출처는 **각 .glb 파일 안에 그대로 들어 있고**, 게임의 `메뉴 → 제작 정보`
