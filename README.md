@@ -65,6 +65,7 @@
 | Ancient Bow (`wep_bow2`) — 활잡이 중급 활 | [sunix](https://sketchfab.com/sunix) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Elven Assassin Weapon Set — Bow (`wep_bow3`) — 활잡이 상급 활 | [nodgerty](https://sketchfab.com/nodgert111) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | 33 leaf trees pack (`wld_leaf`) — 나무 잎사귀·덤불 | [falk lochmann](https://sketchfab.com/falk) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Low Poly Forest Tree Pack (`wld_tree1`, `wld_tree2`) — 줄기까지 한 덩어리인 나무 | [99.Miles](https://sketchfab.com/99.Miles) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Rocks - PSX low poly (`wld_rock`) — 들판의 바위 | [Drops](https://sketchfab.com/rafacandido2016) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Grass low poly 3d scan (`gnd_grass`) — 바닥 결·풀 | [Sam3D](https://sketchfab.com/samuelcrevier12) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Tileable Forestroad (`gnd_dirt`) — 바닥 결·마른 흙 | [Serkan ÇINAR](https://sketchfab.com/mr.cserkan) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
